@@ -1,6 +1,6 @@
 # AI Content Engine
 
-A multi-modal AI content generation application built with Streamlit.
+A multi-model AI content generation application built with Streamlit.
 
 The app accepts a simple product brief and generates an entire marketing campaign using multiple AI models.
 
